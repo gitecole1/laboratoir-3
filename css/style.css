@@ -6,20 +6,33 @@ table, td, th {
     padding-right: 30px;
     margin: auto;
     text-align: center;
-    color: white;
-    
+    color: white
+
+   
     }
     
  th, td{
     background-color: transparent;
    }
 
+image{
+   max-width:  42px;
+}
+ 
+h1{
 
- h1{
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 30px;
-  }
+   font-size: 30px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-style: italic;
+   font-weight: bold;
+   text-align:center;
+}
+.italic {
+   font-style: italic;
+
+}
+
+   
 
 
 
